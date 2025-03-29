@@ -5,7 +5,7 @@ const nextConfig = {
     name: 'Eons Infrastructure Technologies',
     description: 'The official source for all Eons workspace images.',
     icon: '/img/logo.svg',
-    listUrl: 'https://registry.workspace.infrastructure.tech/',
+    listUrl: 'https://infrastructure-tech.github.io/kasm.registry/',
     contactUrl: 'https://eons.llc/contact',
   },
   reactStrictMode: true,
